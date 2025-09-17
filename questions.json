@@ -1,0 +1,17 @@
+[
+  {
+    "question": "¿Cual es el punto mas profundo del oceano?",
+    "options": ["Fosa de las Marianas", "Fosa de Tonga", "Fosa de Java", "Fosa de Puerto Rico"],
+    "answer": 0
+  },
+  {
+    "question": "¿Que corriente oceanica regula el clima de Europa Occidental?",
+    "options": ["Corriente de Humboldt", "Corriente del Golfo", "Corriente de California", "Corriente de Bengala"],
+    "answer": 1
+  },
+  {
+    "question": "¿Que porcentaje del oxigeno terrestre proviene del oceano?",
+    "options": ["20%", "50%", "70%", "90%"],
+    "answer": 2
+  }
+]

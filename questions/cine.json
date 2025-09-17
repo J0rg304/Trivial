@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Que película gano el Oscar a Mejor Pelicula en 2020?",
+    "options": ["Once Upon a Time in Hollywood", "Parasitos", "1917", "Joker"],
+    "answer": 1
+  },
+  {
+    "question": "¿Quien dirigio la trilogia de 'El Señor de los Anillos'?",
+    "options": ["James Cameron", "Christopher Nolan", "Peter Jackson", "Steven Spielberg"],
+    "answer": 2
+  },
+  {
+    "question": "¿Que actor interpreto al Joker en 'The Dark Knight'?",
+    "options": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Jack Nicholson"],
+    "answer": 0
+  },
+  {
+    "question": "¿Cual es la pelicula mas taquillera de todos los tiempos (sin ajustar por inflacion)?",
+    "options": ["Star Wars: The Force Awakens", "Avengers: Endgame", "Titanic", "Avatar"],
+    "answer": 3
+  },
+  {
+    "question": "¿Que director es conocido por peliculas como 'Inception' e 'Interstellar'?",
+    "options": ["Martin Scorsese", "Ridley Scott", "Quentin Tarantino", "Christopher Nolan"],
+    "answer": 3
+  }
+]

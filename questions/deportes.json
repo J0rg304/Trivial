@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿Cual es el unico pais que ha ganado la Copa Mundial de Futbol cinco veces?",
+    "options": ["Argentina", "Brasil", "Alemania", "Italia"],
+    "answer": 1
+  },
+  {
+    "question": "¿En que deporte se utiliza el termino 'ace'?",
+    "options": ["Baloncesto", "Béisbol", "Golf", "Tenis"],
+    "answer": 3
+  },
+  {
+    "question": "¿Que pais gano más medallas en los Juegos Olimpicos de Tokio 2020?",
+    "options": ["Rusia", "Estados Unidos", "Japon", "China"],
+    "answer": 1
+  },
+  {
+    "question": "¿Cual es la duracion oficial de un partido de rugby?",
+    "options": ["90 minutos", "80 minutos", "70 minutos", "60 minutos"],
+    "answer": 1
+  },
+  {
+    "question": "¿Que piloto de Formula 1 ha ganado más campeonatos mundiales?",
+    "options": ["Sebastian Vettel", "Michael Schumacher", "Lewis Hamilton", "Ayrton Senna"],
+    "answer": 2
+  }
+]

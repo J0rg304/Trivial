@@ -1,0 +1,27 @@
+[
+  {
+    "question": "¿En que año comenzo la Segunda Guerra Mundial?",
+    "options": ["1945", "1939", "1941", "1937"],
+    "answer": 1
+  },
+  {
+    "question": "¿Quien fue el primer emperador del Imperio Romano?",
+    "options": ["Julio Cesar", "Trajano", "Neron", "Augusto"],
+    "answer": 3
+  },
+  {
+    "question": "¿Que tratado puso fin a la Primera Guerra Mundial?",
+    "options": ["Tratado de Versalles", "Tratado de Tordesillas", "Tratado de Paris", "Tratado de Utrecht"],
+    "answer": 0
+  },
+  {
+    "question": "¿Que civilización construyo Machu Picchu?",
+    "options": ["Azteca", "Inca", "Maya", "Olmeca"],
+    "answer": 1
+  },
+  {
+    "question": "¿Quien lidero la Revolucion Cubana en 1959?",
+    "options": ["Camilo Cienfuegos", "Raul Castro", "Che Guevara", "Fidel Castro"],
+    "answer": 3
+  }
+]

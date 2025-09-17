@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Trivia Oceánica</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div id="menu-container">
+    <h1>Bienvenido a la Trivia</h1>
+    <input type="text" id="username" placeholder="Escribe tu nombre">
+    <h3>Elige una categoría:</h3>
+    <button onclick="startGame('deportes')">Deportes</button>
+    <button onclick="startGame('historia')">Historia</button>
+    <button onclick="startGame('cine')">Cine</button>
+  </div>
+
+  <div id="quiz-container" style="display:none;">
+    <h2 id="greeting"></h2>
+    <div id="question-box"></div>
+    <ul id="options"></ul>
+    <div id="timer">⏱️ Tiempo: <span id="time">15</span>s</div>
+    <button id="next-btn">Siguiente</button>
+    <div id="score-box"></div>
+    <button onclick="returnToMenu()">Volver al menú</button>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
